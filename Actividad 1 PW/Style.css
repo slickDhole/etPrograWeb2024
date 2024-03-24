@@ -12,6 +12,14 @@
 .margen_adopcion{
     margin-top: 50px;
 }
-.retroceder{
-    margin-left: 250;
+
+
+.cropped{
+    width: 400px;
+    height: 1000px;
+    overflow: hidden;
+
+}
+.cropped img{
+    margin: -10px 0px 0px -180px;
 }
