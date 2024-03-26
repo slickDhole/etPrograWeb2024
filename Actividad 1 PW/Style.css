@@ -2,10 +2,24 @@
     display: flex;
 }
 .texto{
-    margin-left: 250px;
+    margin-left: 100px;
     margin-top: 50px;
 }
 .margen{
     margin-left: 250px;
     margin-top: 50px;
+}
+.margen_adopcion{
+    margin-top: 50px;
+}
+
+
+.cropped{
+    width: 400px;
+    height: 1000px;
+    overflow: hidden;
+
+}
+.cropped img{
+    margin: -10px 0px 0px -180px;
 }
