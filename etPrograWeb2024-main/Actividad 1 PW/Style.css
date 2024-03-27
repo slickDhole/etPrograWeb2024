@@ -1,0 +1,39 @@
+*{
+    font-family: sans-serif;
+}
+
+a:hover{
+    color:gray;
+}
+
+.menu{
+    display:inline;
+    width:20%;
+    float:left;
+    background-color:#20211a;
+    height: 100%;
+}
+
+.cuerpo{
+    display:inline;
+    width:80%;
+    float: right;
+
+}
+
+.bloque1{
+    height: 25%;
+    background-color:skyblue;
+}
+.bloque2{
+    height: 25%;
+    background-color: yellow;
+}
+.bloque3{
+    height: 25%;
+    background-color: orangered;
+}
+.bloque4{
+    height: 25%;
+    background-color: red;
+}
