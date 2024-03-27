@@ -1,25 +1,35 @@
-.contenedor{
-    display: flex;
-}
-.texto{
-    margin-left: 100px;
-    margin-top: 50px;
-}
-.margen{
-    margin-left: 250px;
-    margin-top: 50px;
-}
-.margen_adopcion{
-    margin-top: 50px;
+*{
+    font-family: sans-serif;
 }
 
+a:hover{
+    color:aqua;
+}
 
-.cropped{
-    width: 400px;
-    height: 1000px;
-    overflow: hidden;
+.menu{
+    display:inline;
+    width:20%;
+    float:left;
+    background-color: black;
+    height: 75%;
+}
+
+.cuerpo{
+    display:inline;
+    width:80%;
+    float: right;
 
 }
-.cropped img{
-    margin: -10px 0px 0px -180px;
+
+.bloque1{
+    height: 25%;
+    background-color: red;
+}
+.bloque2{
+    height: 25%;
+    background-color: green;
+}
+.bloque3{
+    height: 25%;
+    background-color: yellow;
 }
